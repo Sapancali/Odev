@@ -40,7 +40,7 @@ public class odev11{
 		char karakter= klavye.next().charAt(0);
 		int aski = karakter;
 		System.out.println(karakter+" karakterin ASCII degeri "+aski);
-		
+		// 
 	}
 	
 }
